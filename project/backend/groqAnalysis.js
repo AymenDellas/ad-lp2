@@ -1,4 +1,4 @@
-const GROQ_API_KEY = "";
+const GROQ_API_KEY = "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";
 const GROQ_API_URL = "https://api.groq.com/openai/v1/chat/completions";
 
 export async function analyzeWithGroq(adContent, landingPageContent) {
